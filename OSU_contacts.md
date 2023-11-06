@@ -4,29 +4,37 @@
 
 Ohio State is a huge school. Here's a roadmap linking to different deparments, internal offices, and labs. At the end, theres some info about my time at OSU. 
 
+&nbsp;
+
 ## Faculty by Department 
 
-[Mechanical And Aerospace Faculty](https://mae.osu.edu/directory/faculty)
+- [Mechanical And Aerospace Faculty](https://mae.osu.edu/directory/faculty)
 
-[Fischer College of Business Faculty](https://fisher.osu.edu/directory?type=faculty_member)
+- [Fischer College of Business Faculty](https://fisher.osu.edu/directory?type=faculty_member)
 
-[Computer Science Engineering Faculty](https://cse.osu.edu/directory/faculty)
+- [Computer Science Engineering Faculty](https://cse.osu.edu/directory/faculty)
 
-[Electric and Computer Engineering](https://ece.osu.edu/directory/faculty)
+- [Electric and Computer Engineering](https://ece.osu.edu/directory/faculty)
+
+&nbsp;
 
 ## Internal Organizations 
 
-[Engineering Laboratories](https://era.osu.edu)
+1. [Engineering Laboratories](https://era.osu.edu)
 
-[Corporate Engagement office](https://era.osu.edu/commercialization-industry-engagement/corporate-engagement-technology-commercialization)
+2. [Corporate Engagement office](https://era.osu.edu/commercialization-industry-engagement/corporate-engagement-technology-commercialization)
+
+&nbsp;
 
 ## Professors that I enjoyed personally
 
-[Professor Hoelzle](https://mae.osu.edu/people/hoelzle.1) Robotics Control Professor, scheduled tours to companies
+- [Professor Hoelzle](https://mae.osu.edu/people/hoelzle.1) Robotics Control Professor, scheduled tours to companies
 
-[Dr. Siston](https://mae.osu.edu/people/siston.1) Biomechanics professor Phd and Chair for Administration for the mechanical engineering department. 
+- [Dr. Siston](https://mae.osu.edu/people/siston.1) Biomechanics professor Phd and Chair for Administration for the mechanical engineering department. 
 
-[Professor Schnider](https://ece.osu.edu/people/schniter.1) Great professor, teaches machine learning and AI 
+- [Professor Schnider](https://ece.osu.edu/people/schniter.1) Great professor, teaches machine learning and AI 
+
+&nbsp;
 
 ## Perspective
 
@@ -37,6 +45,19 @@ In my last 2 years, I spent my freetime becoming a newbie real estate investor. 
 During my masters, I held a teaching job in product design and graded and helped run lectures for Annie Abell. In the summer of 2023, I then held a job at the Risk and Reliability lab, aka the Nuclear research lab. Now I'm at Sherwin as a Robotics Engineer. 
 
 Connect with me outside work if youre interested in developing software and hardware or about real estate.  
+
+&nbsp;
+
+<div align="center">
+
+
+
+╭━━╮╭━━━┳━━┳━━━┳━╮╱╭╮        ╭╮╱╱╭━━━┳━━━┳╮╭━┳━━━╮
+┃╭╮┃┃╭━╮┣┫┣┫╭━╮┃┃╰╮┃┃        ┃┃╱╱┃╭━━┫╭━╮┃┃┃╭┫╭━╮┃
+┃╰╯╰┫╰━╯┃┃┃┃┃╱┃┃╭╮╰╯┃        ┃┃╱╱┃╰━━┫╰━━┫╰╯╯┃┃╱┃┃
+┃╭━╮┃╭╮╭╯┃┃┃╰━╯┃┃╰╮┃┃        ┃┃╱╭┫╭━━┻━━╮┃╭╮┃┃┃╱┃┃
+┃╰━╯┃┃┃╰┳┫┣┫╭━╮┃┃╱┃┃┃        ┃╰━╯┃╰━━┫╰━╯┃┃┃╰┫╰━╯┃
+╰━━━┻╯╰━┻━━┻╯╱╰┻╯╱╰━╯        ╰━━━┻━━━┻━━━┻╯╰━┻━━━╯
 
 &nbsp;
 
